@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,cpp,javascript,java,html,css,tailwindcss,nextjs,md" />
+    <img src="https://skillicons.dev/icons?i=github,cpp,javascript,typescript,java,nextjs,react,tailwindcss,html,css,md" />
   </a>
 </p>
