@@ -10,10 +10,10 @@
 ゼミナールでは**哲学**を学んでいます。最近は**記号論**を中心に、その周辺の思想について書かれた本を読んでいます。
 
 ## 🛠 Skills (Learning)
-### Languages & Frameworks
+### Languages
 ![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,java)
 
-### Languages & Frameworks
+### Frameworks
 ![Frameworks](https://skillicons.dev/icons?i=nextjs,react,tailwind)
 
 ### Tools
