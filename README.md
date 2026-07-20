@@ -1,7 +1,7 @@
 # Hi there, I'm Kanata Hatakeyama 👋
 
 <a href="https://monkeytype.com/profile/hata_K">
-  <img src="https://raw.githubusercontent.com/sakasasakasu/sakasasakasu/monkeytype-readme/monkeytype-readme-pb.svg" alt="My Monkeytype profile" />
+  <img src="https://raw.githubusercontent.com/sakasasakasu/sakasasakasu/monkeytype-readme/hata_K-monkeytype-readme-pb.svg" alt="My Monkeytype Profile" />
 </a>
 
 
