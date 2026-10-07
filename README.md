@@ -13,7 +13,7 @@
 <!-- SPOTIFY_TOP_ARTISTS:START -->
 1. [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h)
 2. [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH)
-3. [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi)
-4. [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz)
+3. [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz)
+4. [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi)
 5. [kaza](https://open.spotify.com/artist/3FgHWvLCuvzP2j85oiXdHs)
 <!-- SPOTIFY_TOP_ARTISTS:END -->
