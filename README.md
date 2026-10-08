@@ -6,7 +6,7 @@
 2. [That Is Like You](https://open.spotify.com/track/7vNsAEOaGoDDnvuWm97iTO) - **Kaitlyn Aurelia Smith**
 3. [wo sao ni](https://open.spotify.com/track/6mQ9t3pGmAxFyqkMs8qKXp) - **Helena Gao**
 4. [nan peng you](https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY) - **Helena Gao**
-5. [Perfect Pinterest Garden - Ninajirachi & underscores Remix](https://open.spotify.com/track/3huANgMZYFGwAD6qQzSNfi) - **Porter Robinson, Ninajirachi, underscores**
+5. [bi bu shang ni](https://open.spotify.com/track/0nUdjHZl87z3iGCmJycors) - **Helena Gao**
 <!-- SPOTIFY_TOP_TRACKS:END -->
 
 ### 🧑‍🎤 Top Artists (Spotify)
